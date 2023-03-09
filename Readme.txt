@@ -1,0 +1,3 @@
+- 3306 for db port 4941 for local port.
+- use putty to connect
+- db = 127.0.0.1 local (connects through putty)
